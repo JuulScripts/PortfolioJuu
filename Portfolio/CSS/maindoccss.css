@@ -109,10 +109,14 @@ nav    a:hover {
     color: black;
 }
 
-
 video {
-    width: 100vw;
+    display: block;       
+    margin: 0 auto;      
+    width: 80vw;         
+    max-width: 600px;    
+    height: auto;         
 }
+
 
 img  {
     position:  relative;
